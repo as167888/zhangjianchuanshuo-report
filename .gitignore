@@ -1,0 +1,4 @@
+__pycache__/
+*.log
+scrape_zhangjianchuanshuo.py
+send_daily_report.py
